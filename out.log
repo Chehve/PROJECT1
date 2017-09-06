@@ -4,4 +4,7 @@ Copyright (C) Microsoft Corporation. All rights reserved.
 
 This compiler is provided as part of the Microsoft (R) .NET Framework, but only supports language versions up to C# 5, which is no longer the latest version. For compilers that support newer versions of the C# programming language, see http://go.microsoft.com/fwlink/?LinkID=533240
 
+<<<<<<< HEAD
 src\GameLogic\Snap.cs(24,26): warning CS0169: The field 'CardGames.GameLogic.Snap._gameTimer' is never used
+=======
+>>>>>>> 5aeb7af... Add files via upload
